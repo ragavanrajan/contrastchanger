@@ -2,25 +2,28 @@ This is a starter template for [Ionic](http://ionicframework.com/docs/) projects
 
 ## How to use this template
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
+*Added by Ragavan Rajan - To change the icon contrast color inside the fab dial button
+//u need to add the base and contrast color
+// once changes is added. run this app via ionic serve or ionic lab *
+### Download the project via Git :
+Then, to run it, cd into `contrastchange` and run using any of the following commands : 
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
+```bash
+$ionic serve 
+$ionic lab 
+$ ionic cordova platform add ios
+$ ionic cordova run ios
 
-### With the Ionic CLI:
+### With the Ionic CLI ( If you are creating new project from scratch use the following commands and then run the above commands:
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
+Run the below command to create a new project
 
 ```bash
 $ sudo npm install -g ionic cordova
-$ ionic start myBlank blank
+$ ionic start contrastchanger blank
 ```
 
-Then, to run it, cd into `myBlank` and run:
 
-```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
-```
 
 Substitute ios for android if not on a Mac.
 

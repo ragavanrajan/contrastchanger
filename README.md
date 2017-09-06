@@ -6,7 +6,7 @@ This is a starter template for [Ionic](http://ionicframework.com/docs/) projects
 //u need to add the base and contrast color
 // once changes is added. run this app via ionic serve or ionic lab *
 ### Download the project via Git :
-Then, to run it, cd into `contrastchange` and run using any of the following commands : 
+Then, to run it, cd into `contrastchanger` and run using any of the following commands : 
 
 ```bash
 $ionic serve 

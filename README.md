@@ -13,6 +13,7 @@ $ionic serve
 $ionic lab 
 $ ionic cordova platform add ios
 $ ionic cordova run ios
+```
 
 ### With the Ionic CLI ( If you are creating new project from scratch use the following commands and then run the above commands:
 
